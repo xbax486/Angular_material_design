@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 angular-material-inbox
 ======================
 
@@ -20,3 +21,9 @@ Else if you have python 3.x installed, you can start serving the project via:
 The server will than be reachable by default under localhost:8000
 
 else use any other webserver to start serving the project directory or just open the index.html in your browser (which might result in errors dependendent on the browser)
+=======
+# Angular_MD
+Andy's First Angular Material Design code sample
+
+This is a code sample that illustrate what Angular MD looks like
+>>>>>>> c5916407ddc82a32a93fbc34616779eff5df5de3
